@@ -1,0 +1,505 @@
+#a{
+	height: 700px;
+	width: 100%;
+	background-image: url("../IMAGES/rainbow.jpg");
+}
+#a1{
+	height: 700px;
+	width:35%;
+	float: left;
+}
+#a2{
+	height: 700px;
+	width: 30%;
+	float: left;
+}
+#a21{
+	height: 632px;
+	width: 100%;
+	border: 30px solid white;
+}
+#a3{
+	height: 700px;
+	width:35%;
+	float: right;
+}
+h1{
+	color: white;
+	display: inline;
+}
+p{
+	text-align: justify;
+	color: white;
+}
+#b{
+	height: 500px;
+	width: 100%;
+	background-color: hotpink;
+}
+#b1{
+	height: 500px;
+	width: 50%;
+	float: left;
+}
+#b11{
+	height: 500px;
+	float: left;
+	width: 20%;
+}
+#b12{
+	height: 500px;
+	float: right;
+	width: 80%;
+}
+#b121{
+	height: 233px;
+	width: 100%;
+}
+#b1211{
+	height: 125px;
+	width: 100%;
+}
+#b1212{
+	height: 125px;
+	width: 100%;
+}
+#k{
+	display: inline;
+	color: yellow;
+	font-size: 40px;
+}
+#b122{
+	height: 268px;
+	width: 100%;
+}
+#b1221{
+	height: 125px;
+	width: 100%;
+}
+#b1222{
+	height: 125px;
+	width: 100%;
+}
+#b2{
+	height: 500px;
+	width: 50%;
+	float: right;
+}
+#b21{
+	height: 400px;
+	width: 90%;
+	padding-top: 60px;
+	padding-left: 60px;
+}
+#strup{
+	height: 400px;
+	width: 60%;
+}
+#c{
+	height: 700px;
+	width: 100%;
+	background-color: dodgerblue;
+}
+#c1{
+	height: 700px;
+	width: 10%;
+	float: left;
+}
+h3{
+	color: white;
+}
+#c2{
+	height: 700px;
+	width: 40%;
+	float: left;
+}
+#c3{
+	height: 700px;
+	width: 50%;
+	float: right;
+}
+#c31{
+	height: 650px;
+	width: 77%;
+	border: 15px solid white;
+}
+.dr{
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	color: yellow;
+}
+h5{
+	text-align: center;
+	color: white;
+}
+.ar{
+	text-align: center;
+}
+#d{
+	height: 900px;
+	width: 100%;
+	background-color: hotpink;
+}
+#d1{
+	height: 300px;
+	width: 100%;
+}
+#d2{
+	height: 200px;
+	width: 100%;
+}
+#d11{
+	height: 300px;
+	width: 5%;
+	float: left;
+}
+#d12{
+	height: 300px;
+	width: 90%;
+	float: left;
+}
+#d13{
+	height: 300px;
+	width: 5%;
+	float: right;
+}
+.d121{
+	height: 150px;
+	width: 100%;
+}
+#d1211{
+	height: 140px;
+	width: 30%;
+	float: left;
+	background-color: white;
+	border: 10px solid hotpink;
+}
+#d1212{
+	height: 140px;
+	width: 30%;
+	float: left;
+	background-color: white;
+	border: 10px solid hotpink;	
+}
+#d1213{
+	height: 140px;
+	width: 30%;
+	float: right;
+	background-color: white;
+	border: 10px solid hotpink;
+}
+#d1221{
+	height: 140px;
+	width: 30%;
+	float: left;
+	background-color: white;
+	border: 10px solid hotpink;
+}
+#d1222{
+	height: 140px;
+	width: 30%;
+	float: left;
+	background-color: white;
+	border: 10px solid hotpink;	
+}
+#d1223{
+	height: 140px;
+	width: 30%;
+	float: right;
+	background-color: white;
+	border: 10px solid hotpink;
+}
+.fa-brands{
+	font-size: 30px;
+	padding-top: 10px;
+}
+#logo1{
+	font-size: 30px;
+	color: hotpink;
+	text-align: center;
+}
+.fa-solid{
+	font-size: 30px;
+	padding-top: 10px;
+}
+#para{
+	text-align: center;
+	border: 50px solid hotpink;
+}
+#d3{
+	height: 40px;
+	width: 100%;
+}
+#d31{
+	height: 400px;
+	width: 5%;
+	float: left;
+}
+#d32{
+	height: 400px;
+	width: 90%;
+	float: left;
+}
+#d33{
+	height: 400px;
+	width: 5%;
+	float: right;
+}
+#d321{
+	height: 200px;
+	width: 100%;
+}
+#d322{
+	height: 200px;
+	width: 100%;
+}
+#d3211{
+	height: 200px;
+	width: 30%;
+	float: left;
+	border: 10px solid hotpink;
+}
+#d3212{
+	height: 200px;
+	width: 30%;
+	float: left;
+	border: 10px solid hotpink;
+}
+#d3213{
+	height: 200px;
+	width: 30%;
+	float: right;
+	border: 10px solid hotpink;
+}
+#d3221{
+	height: 200px;
+	width: 30%;
+	float: left;
+	border: 10px solid hotpink;
+}
+#d3222{
+	height: 200px;
+	width: 30%;
+	float: left;
+	border: 10px solid hotpink;
+}
+#d3223{
+	height: 200px;
+	width: 30%;
+	float: right;
+	border: 10px solid hotpink;
+}
+.img1{
+	height: 200px;
+	width: 100%;
+}
+#e{
+	height: 660px;
+	width: 100%;
+	background-color: dodgerblue;
+}
+#e1{
+	height: 60px;
+	width: 100%;
+	background-color: hotpink;
+}
+#e2{
+	height: 600px;
+	width: 100%;
+	background-color: dodgerblue;
+}
+#e21{
+	height: 600px;
+	width: 40%;
+	float: left;
+}
+#e22{
+	height: 600px;
+	width: 60%;
+	float: right;
+}
+#sir{
+	height: 600px;
+	width: 100%;
+}
+progress::-webkit-progress-bar {
+   background-color: white;
+}
+#f{
+	height: 600px;
+	width: 100%;
+	background-image: url("../IMAGES/rainbow.jpg");
+}
+#f1{
+	height: 600px;
+	width: 60%;
+	float: left;
+}
+#f2{
+	height: 600px;
+	width: 20%;
+	float: left;
+}
+#f3{
+	height: 600px;
+	width: 20%;
+	float: right;
+}
+#f11{
+	height: 100px;
+	width: 100%;
+}
+#f12{
+	height: 400px;
+	width: 100%;
+	border: 20px solid white;
+}
+#f13{
+	height: 100px;
+	width: 100%;
+}
+button{
+	background-color: yellow;
+	color: hotpink;
+	width: 120px;
+	height: 50px;
+	border-radius: 20px;
+}
+#con{
+	text-align: justify;
+	font-size: 60px;
+	font-weight: bolder;
+}
+#g{
+	height: 600px;
+	width: 100%;
+	background-color: dodgerblue;
+}
+#g1{
+	height: 600px;
+	width: 10%;
+	float: left;
+}
+#g2{
+	height: 600px;
+	width: 50%;
+	float: left;
+}
+#g3{
+	height: 600px;
+	width: 30%;
+	float: left;
+}
+#g4{
+	height: 600px;
+	width: 10%;
+	float: right;
+}
+#g21{
+	height: 400px;
+	width: 70%;
+	padding-top: 30px;
+}
+#crs{
+	text-align: left;
+	color: white;
+}
+#g31{
+	height: 530px;
+	width: 90%;
+}
+#g311{
+	height: 269px;
+	width: 100%;
+	background-color: yellow;
+}
+#g312{
+	height: 261px;
+	width: 100%;
+	background-color: white;
+}
+.team{
+	color: dodgerblue;
+}
+#kart{
+	color: dodgerblue;
+	font-weight: bold;
+	font-size: 70px;
+	text-align: center;
+}
+ul{
+	list-style-type: square;
+}
+#upload{
+	background-color: dodgerblue;
+	color: white;
+}
+#h{
+	height: 600px;
+	width: 100%;
+	background-image: url("../IMAGES/rainbow.jpg");
+}
+#h1{
+	background-color: white;
+	height: 400px;
+	width: 30%;
+}
+#mi{
+	height: 50px;
+	width: 50%;
+}
+#ab{
+	text-align: justify;
+	font-size: 20px;
+	color: black;
+}
+#i{
+	height: 700px;
+	width: 100%;
+	background-color: dodgerblue;
+}
+#i1{
+	height: 350px;
+	width: 70%;
+	border: 20px solid white;
+}
+#i2{
+	height: 350px;
+	width: 100%;
+}
+#quot{
+	text-align: center;
+	font-size: 50px;
+	font-weight: bolder;
+	color: yellow;
+}
+#abc{
+	text-align: justify;
+	font-size: 30px;
+	font-weight: bolder;
+	color: yellow;
+}
+#j{
+	height: 500px;
+	width: 100%;
+	background-color: hotpink;
+}
+#boss{
+	height: 300px;
+	width: 40%;
+}
+h1{
+	color: white;
+	font-weight: bolder;
+}
+#confi{
+	height: 200px;
+	width: 40%;
+}
+.add{
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
